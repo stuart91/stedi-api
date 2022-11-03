@@ -7,7 +7,7 @@ spec:
     - port: 6379
       name: redis
   clusterIP: None
-  selector:
+  selector: 
     app: redis-stedi-dev-daniel-stuart
 ---
 apiVersion: apps/v1

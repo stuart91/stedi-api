@@ -99,7 +99,6 @@ spec:
   domains:
     - danielstuartstedi.cit262.com
 ---
-  
 apiVersion: v1
 kind: Service
 metadata:
